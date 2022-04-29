@@ -40,7 +40,7 @@ body{
 	}
 
 	.menu1800{
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 	.menu1200{
 		display: none !important;
@@ -55,7 +55,7 @@ body{
 
 	.menu{
 		list-style: none;
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 
 	.menu > li > a {
@@ -210,7 +210,7 @@ body{
 		display: none !important;
 	}
 	.menu1200{
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 	.menu800{
 		display: none !important;
@@ -223,7 +223,7 @@ body{
 
 	.menu{
 		list-style: none;
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 
 	.menu > li > a {
@@ -385,7 +385,7 @@ body{
 		display: none !important;
 	}
 	.menu1200{
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 	.menu800{
 		display: none !important;
@@ -397,7 +397,7 @@ body{
 
 	.menu{
 		list-style: none;
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 
 	.menu > li > a {
@@ -562,7 +562,7 @@ body{
 		display: none !important;
 	}
 	.menu800{
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 	.menu700{
 		display: none !important;
@@ -571,7 +571,7 @@ body{
 
 	.menu{
 		list-style: none;
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 
 	.menu > li > a {
@@ -738,12 +738,12 @@ body{
 		display: none !important;
 	}
 	.menu700{
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 
 	.menu{
 		list-style: none;
-		display: block ruby;
+		display: -webkit-inline-box;
 	}
 
 	.menu > li > a {
